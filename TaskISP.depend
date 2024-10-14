@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728884649 source:d:\data (d)\all programming language\c++\soal tp asprak\taskisp\main.cpp
+	"TaskISP.h"
+
+1728884572 d:\data (d)\all programming language\c++\soal tp asprak\taskisp\taskisp.h
+	<string>
+
+1728884668 source:d:\data (d)\all programming language\c++\soal tp asprak\taskisp\taskisp.cpp
+	"TaskISP.h"
+	<iostream>
+
